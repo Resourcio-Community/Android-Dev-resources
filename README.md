@@ -1,5 +1,5 @@
 # Android-Dev-resources
-This is an awesome project about Android Dev resources. ⚡
+This is an awesome repo about Android Dev resources. ⚡
 
 Resources are added frequently! ⚡
 
@@ -22,7 +22,7 @@ Enjoy!
 | Android Development with Android Studio, Android/Java App Development, Basic to Advance by Aamer Khan | [Click Here](https://www.amazon.in/Android-Development-Studio-Basic-Advance/dp/B09MB1RJL7/ref=sr_1_8?crid=2ABNJ1319D6SJ&keywords=app+development+book+for+beginners&qid=1671713714&sprefix=app+dev%2Caps%2C428&sr=8-8) | [Click Here](https://www.pdfdrive.com/download.pdf?id=39898073&h=beb34e37038d446831d222f5a3b29e8d&u=cache&ext=pdf) |
 | macOS Programming for Absolute Beginners: Developing Apps Using Swift and Xcode by Wallace Wang | [Click Here](https://www.amazon.in/macOS-Programming-Absolute-Beginners-Developing/dp/1484226615/ref=sr_1_1?crid=1Z7K3CDU9EA1J&keywords=macOS+Programming+for+Absolute+Beginners%3A+Developing+Apps+Using+Swift+and+Xcode+by+Wallace+Wang&qid=1671808546&sprefix=macos+programming+for+absolute+beginners+developing+apps+using+swift+and+xcode+by+wallace+wang%2Caps%2C716&sr=8-1) | [Click Here](https://www.pdfdrive.com/download.pdf?id=187300065&h=c4b4660ab1456e0c03537953d969a004&u=cache&ext=pdf) |
 ---
-## YouTube Videos & Playlists for Android Dev
+## YouTube channels for Android Dev
 | Playlists & Videos | Description |
 | -------------------| ----------- |
 | [Kotlin Tutorial](https://youtu.be/I6rkwJed-HY) | Kotlin Tutorial for Beginners, Full Course |
