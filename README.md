@@ -4,6 +4,9 @@ This is an awesome repo about Android Dev resources. ⚡
 Resources are added frequently! ⚡
 
 Enjoy!
+
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Android-Dev-resources)
 ---
 ## Table of Contents
 - [Books for Android Dev](#books-for-android-dev):blue_book:
